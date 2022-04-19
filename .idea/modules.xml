@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minimal-Todo.iml" filepath="$PROJECT_DIR$/.idea/modules/Minimal-Todo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minimal-Todo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minimal-Todo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Todo_report_habibullahBahar.iml" filepath="$PROJECT_DIR$/.idea/modules/Todo_report_habibullahBahar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Todo_report_habibullahBahar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Todo_report_habibullahBahar.app.iml" />
     </modules>
   </component>
 </project>
