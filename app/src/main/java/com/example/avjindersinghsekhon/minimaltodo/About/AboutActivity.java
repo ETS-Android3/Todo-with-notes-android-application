@@ -25,7 +25,6 @@ public class AboutActivity extends AppDefaultActivity {
     private Toolbar toolbar;
     private TextView contactMe;
     String theme;
-    //    private UUID mId;
     private AnalyticsApplication app;
 
     @Override
@@ -42,7 +41,6 @@ public class AboutActivity extends AppDefaultActivity {
         }
 
         super.onCreate(savedInstanceState);
-//        mId = (UUID)i.getSerializableExtra(TodoNotificationService.TODOUUID);
 
         final Drawable backArrow = getResources().getDrawable(R.drawable.abc_ic_ab_back_mtrl_am_alpha);
         if (backArrow != null) {
